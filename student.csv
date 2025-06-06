@@ -1,0 +1,57 @@
+student_name,student_id,class_section,age,grade,mark
+Ankush,101,12-A,17,A,450
+Akshit,102,12-B,18,B,490
+Shivam,103,12-C,17,C,400
+Ramu,104,12-A,18,A,500
+Kalu,105,12-B,17,B,480
+Sita,106,12-C,18,C,420
+Gita,107,12-A,17,A,470
+Sita Devi,108,12-B,18,B,460
+Rani,109,12-C,17,C,410
+Raju,110,12-A,18,A,520
+Suresh,111,12-B,17,B,430
+Ramesh,112,12-C,18,C,440
+Sita Ram,113,12-A,17,A,490
+Ramu Kalu,114,12-B,18,B,480
+Sita Gita,115,12-C,17,C,450
+Rani Suresh,116,12-A,18,A,500
+Raju Ramesh,117,12-B,17,B,470
+Ramu Sita,118,12-C,18,C,460
+Rani Gita,119,12-A,17,A,480
+Raju Suresh,120,12-B,18,B,490
+Ramu Ramesh,121,12-C,17,C,440
+John Doe,122,12-A,18,A,500
+Jane Smith,123,12-B,17,B,480
+Michael Johnson,124,12-C,18,C,470
+Emily Davis,125,12-A,17,A,490
+Sarah Brown,126,12-B,18,B,460
+David Wilson,127,12-C,17,C,450
+Jessica Taylor,128,12-A,18,A,520
+William Anderson,129,12-B,17,B,430
+Robert Thomas,130,12-C,18,C,440
+Linda Martinez,131,12-A,17,A,490
+Christopher Lee,132,12-B,18,B,480
+Patricia Harris,133,12-C,17,C,470
+Thomas Clark,134,12-A,18,A,500
+Nancy Lewis,135,12-B,17,B,480
+Karen Walker,136,12-C,18,C,460
+Daniel Hall,137,12-A,17,A,490
+Lisa Allen,138,12-B,18,B,450
+Mark Young,139,12-C,17,C,440
+Susan King,140,12-A,18,A,500
+James Wright,141,12-B,17,B,480
+Robert Scott,142,12-C,18,C,470
+Mary Green,143,12-A,17,A,490
+Jennifer Adams,144,12-B,18,B,460
+Charles Baker,145,12-C,17,C,450
+Matthew Gonzalez,146,12-A,18,A,520
+Joshua Nelson,147,12-B,17,B,430
+Ashley Carter,148,12-C,18,C,440
+Amanda Mitchell,149,12-A,17,A,490
+Brian Perez,150,12-B,18,B,480
+Stephanie Roberts,151,12-C,17,C,470
+Anthony Oliver,152,12-A,18,A,450
+Donald Rivera,153,12-B,17,B,490
+Jessica Smith,154,12-C,18,C,400
+Brandon King,155,12-A,17,A,500
+Ankush,170,12-E,18,A,500.0
